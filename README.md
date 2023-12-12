@@ -1,5 +1,4 @@
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=21&pause=1000&color=F71B2C&background=E9FFC600&random=false&width=435&lines=Hi+there%2C+I+am+Alex+Adenuga;A+Data+Scientist%2FAnalyst;A+Machine+Learning+Engineer;An+Artificial+Intelligence+Developer;A+Database%2FCRM+Administrator" alt="Typing SVG" /></a> 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=19&pause=1000&color=F71B2C&background=E9FFC600&random=false&width=435&lines=Hi+there%2C+I+am+Alex+Adenuga;A+Data+Scientist%2FAnalyst;A+Machine+Learning+Engineer;An+Artificial+Intelligence+Developer;A+Database%2FCRM+Administrator" alt="Typing SVG" /></a>
 
 ---
 
@@ -18,12 +17,7 @@ I am an innovative thinker, I leverage the powerful information in data to creat
 - [Multivariate Time Series Analysis of the Prices of Staple Foodstuff in Kwara State Nigeria](https://www.researchgate.net/publication/352465996_MULTIVARIATE_TIME_SERIES_ANALYSIS_ON_THE_PRICES_OF_STAPLE_FOODSTUFFS_IN_KWARA_STATE_NIGERIA).
 - [Statistical Comparison Of Multiple Imputation and List-Wise Deletion on Parametric Survival Models](https://www.researchgate.net/publication/352441538_STATISTICAL_COMPARISON_OF_MULTIPLE_IMPUTATION_AND_LIST-WISE_DELETION_ON_PARAMETRIC_SURVIVAL_MODELS).
 
-
 ---
-
-
----
-
 ### :computer: Programming Languages
 
 <p>   
