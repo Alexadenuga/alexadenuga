@@ -27,9 +27,12 @@ I am an innovative thinker, I leverage the powerful information in data to creat
    <a href="#"><img alt="shell" src="https://img.shields.io/badge/-PowerShell-5391FE.svg?logo=PowerShell&logoColor=white"></a>
    <a href="#"><img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080.svg?logo=LaTeX&logoColor=white"></a>
    
-### :briefcase: Frameworks and Libraries
+### 🗄️ Libraries
 
 <p>
+   <a href="#"><img alt="PowerBI" src="https://img.shields.io/badge/Power_BI-F2C811?logo=Power%20BI&logoColor=white"></a>
+  <a href="#"><img alt="Tableau" src="https://img.shields.io/badge/Tableau-FFFFFF?logo=Tableau&logoColor=#E97627"></a>
+  <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
   <a href="#"><img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-342B029.svg?logo=anaconda&logoColor=white"></a>
   <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
   <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/NumPy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
@@ -42,11 +45,10 @@ I am an innovative thinker, I leverage the powerful information in data to creat
   <a href="#"><img alt="Apache Spark" src="https://img.shields.io/badge/Apache_Spark-FFFFFF.svg?logo=apachespark&logoColor=#E35A16"></a>
 </p>
 
-### 🗄️ Databases and Cloud Hosting
+### 🗄️ Cloud Infrastructures and Databases
 
 <p>
-   <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
-   <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white"></a>
+     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white"></a>
    <a href="#"><img alt="MSSQL" src="https://img.shields.io/badge/MSSQL-CC2927.svg?logo=microsoft-sql-server&logoColor=#CC2927"></a>
    <a href="#"><img alt="postgresql" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
    <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405E.svg?logo=sqlite&logoColor=white"></a>
@@ -55,30 +57,11 @@ I am an innovative thinker, I leverage the powerful information in data to creat
    <a href="#"><img alt="AWS" src ="https://img.shields.io/badge/Amazon_AWS-FF9900.svg?logo=amazonaws&logoColor=white"></a>
    <a href="#"><img alt="Google Cloud" src ="https://img.shields.io/badge/Google_Cloud-4285F4.svg?logo=google-cloud&logoColor=white"></a>
    </p>
-
-### :space_invader: Software and Tools
-
-<p>
-  <a href="#"><img alt="PowerBI" src="https://img.shields.io/badge/Power_BI-F2C811?logo=Power%20BI&logoColor=white"></a>
-  <a href="#"><img alt="Tableau" src="https://img.shields.io/badge/Tableau-FFFFFF?logo=Tableau&logoColor=#E97627"></a>
-  <a href="#"><img alt="Atom" src="https://img.shields.io/badge/Atom-3DDC84?logo=atom&logoColor=white"></a>
-  <a href="#"><img alt="Chrome" src="https://img.shields.io/badge/Google_Chrome-4285F4?logo=google-chrome&logoColor=white"></a>
-  <a href="#"><img alt="Colab" src="https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=white"></a>
-  <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
-  <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white"></a>
-  <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white"></a>
-  <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
-  <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-  <a href="#"><img alt="Sublime Text" src="https://img.shields.io/badge/-Sublime%20Text-302E31?logo=sublime-text&logoColor=white"></a>
-  <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/VS%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">   </a>
-</p>
-
 ---  
 ## :chart_with_upwards_trend: Github Profile Stats
 
 <p align="center" >
-  <a href="#"><img alt="Alex's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Alexadenuga&show_icons=true&theme=radical" height="192px"/></a>
-  <a href="#"><img alt="Alex's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexadenuga&layout=compact&theme=radical" height="192px"/></a>
+  <a href="#"><img alt="Alex's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Alexadenuga&show_icons=true&theme=radical" height="192px"/></a> <a href="#"><img alt="Alex's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexadenuga&layout=compact&theme=radical" height="192px"/></a>
  
 ## :link: Connect with me
 
