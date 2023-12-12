@@ -62,7 +62,7 @@ I am an innovative thinker, I leverage the powerful information in data to creat
 ## :chart_with_upwards_trend: Github Profile Stats
 
 <p align="center" >
-  <a href="#"><img alt="Alex's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Alexadenuga&show_icons=true&theme=radical" height="192px"/></a> <a href="#"><img alt="Alex's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexadenuga&layout=compact&theme=radical" height="192px"/></a>
+  <a href="#"><img alt="Alex's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Alexadenuga&show_icons=true&theme=radical" height="180px"/></a> <a href="#"><img alt="Alex's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexadenuga&layout=compact&theme=radical" height="180px"/></a>
  
 ## :link: Connect with me
 
