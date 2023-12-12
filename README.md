@@ -14,9 +14,9 @@ I am an innovative thinker, I leverage the powerful information in data to creat
 
 
 
-## :writing_hand: Some Publications
-- [my portfolio](https://alexadenuga.github.io).
-- [my portfolio](https://alexadenuga.github.io).
+## :writing_hand: Some Analytical Articles
+- [Multivariate Time Series Analysis of the Prices of Staple Foodstuff in Kwara State Nigeria](https://www.researchgate.net/publication/352465996_MULTIVARIATE_TIME_SERIES_ANALYSIS_ON_THE_PRICES_OF_STAPLE_FOODSTUFFS_IN_KWARA_STATE_NIGERIA).
+- [Statistical Comparison Of Multiple Imputation and List-Wise Deletion on Parametric Survival Models](https://www.researchgate.net/publication/352441538_STATISTICAL_COMPARISON_OF_MULTIPLE_IMPUTATION_AND_LIST-WISE_DELETION_ON_PARAMETRIC_SURVIVAL_MODELS).
 
 
 ---
