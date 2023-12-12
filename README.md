@@ -27,7 +27,7 @@ I am an innovative thinker, I leverage the powerful information in data to creat
    <a href="#"><img alt="shell" src="https://img.shields.io/badge/-PowerShell-5391FE.svg?logo=PowerShell&logoColor=white"></a>
    <a href="#"><img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080.svg?logo=LaTeX&logoColor=white"></a>
    
-### 🗄️ Libraries
+### 🗄️ Sofware and Libraries
 
 <p>
    <a href="#"><img alt="PowerBI" src="https://img.shields.io/badge/Power_BI-F2C811?logo=Power%20BI&logoColor=white"></a>
