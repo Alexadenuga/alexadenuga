@@ -7,7 +7,7 @@
      
 ---
 ## Brief Introduction
-I am an innovative thinker, I leverage the powerful information in data to create business advantages for corporations.
+I am a dynamic and results-oriented Data Scientist with a proven track record in Python, R programming, Power BI, and SQL. Eagerly seeking an engaging role that will harness my expertise in building robust statistical models and implementing predictive analytics. Armed with a keen ability to translate complex data into actionable insights, I am poised to contribute significantly to the strategic objectives of corporate organizations by leveraging cutting-edge data science techniques. Ready for an active challenge that aligns with my passion for driving innovation through data-driven decision-making.
 - [my portfolio](https://alexadenuga.github.io).
 
 
